@@ -25,7 +25,7 @@ SECRET_KEY = 'j7)d^px$0=!0j_9aa6pc4#8*n6u%v2_-h1#mezdrb3p9&zqo08'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['test-mindful.herokuapp.com']
 
 
 # Application definition
